@@ -16,4 +16,3 @@ Lua libraries:
 
 - dkjson
 - luaposix
--
